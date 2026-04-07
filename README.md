@@ -1,6 +1,6 @@
 # Clap to Code
 
-A small Node.js utility that listens to your microphone for a clap and opens Visual Studio Code when a clap is detected.
+A fun hobby project trying to recreate the Tony Stark garage scene
 
 ## Requirements
 
