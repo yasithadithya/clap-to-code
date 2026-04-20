@@ -1,6 +1,6 @@
 # Clap to Code
 
-A fun hobby project trying to recreate the Tony Stark garage scene
+A fun hobby project trying to recreate the Tony Stark garage scene have to change the frequency 
 
 ## Requirements
 
